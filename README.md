@@ -1,2 +1,16 @@
-# comunidad-koby
-Sitio web que alberga una comunidad de creativos digitales que comprende a diseñadores, desarrolladores, productores audiovisuales, fotógrafos entre otros
+Comunidad koby
+
+[Descripción del proyecto]
+
+[Instalación]
+ - Requisitos
+ - Versión
+ - Encargados del proyecto
+
+[Uso]
+
+[Documentación]
+
+[Roadmap]
+
+[Licencia]
