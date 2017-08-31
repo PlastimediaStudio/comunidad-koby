@@ -14,3 +14,5 @@ Comunidad koby
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
